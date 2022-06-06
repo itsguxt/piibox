@@ -22,7 +22,7 @@ class SearchPage extends StatelessWidget {
             ),
             // const SizedBox(height: 10),
             const Text(
-              "Essa página ainda não\nfoi concuída...",
+              "Essa página ainda não\nfoi concluída...",
               style: TextStyle(fontFamily: 'lobster', fontSize: 25),
               textAlign: TextAlign.center,
             ),

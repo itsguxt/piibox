@@ -1,5 +1,4 @@
-// ignore_for_file: no_logic_in_create_state, use_key_in_widget_constructors
-//
+// ignore_for_file: use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
 import 'package:pbx/Page/product_page.dart';
